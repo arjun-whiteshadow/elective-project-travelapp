@@ -22,8 +22,8 @@ app.secret_key="b'\xee\x7f\x15O\x0f\xee\x0b\xd7\xa4ixK\xc9#\x17_'"
 # Database Config 
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'db_user'
-app.config['MYSQL_PASSWORD'] = '1230'
-app.config['MYSQL_DB'] = 'db_trekapp'
+app.config['MYSQL_PASSWORD'] = 'password'
+app.config['MYSQL_DB'] = 'trekapp'
 
 mysql = MySQL(app)
 

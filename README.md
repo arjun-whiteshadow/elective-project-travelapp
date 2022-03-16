@@ -1,9 +1,10 @@
 # Trek-App
-Flask app for elective
 
-1.Create database & configure database settings in main.py
+Elective-I Flask App : Trek App
 
-   Table name : users
+A) Create database & configure database settings in main.py
+
+   ->     Table name : users
 
    Columns:
    
@@ -41,10 +42,10 @@ Flask app for elective
       -cost                   int
       -trek_destination_id    int
 
-2.Create Virtual Environment
+B).Create Virtual Environment
 
-3.Install required packages
+C).Install required packages
       
       pip install -r requirements.txt
       
-4.Run main.py
+D).Run main.py
