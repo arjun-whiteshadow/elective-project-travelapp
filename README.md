@@ -1,6 +1,14 @@
 # Elective-I Flask App : Trek App
 
+This is a simple web application using Python Flask and MySQL database. This is used in the demonstration of development of Trek App.
 
+
+Install all required dependencies
+Install and Configure Web Server
+Start Web Server 
+ 
+
+  
 
 A) Create database & configure database settings in main.py
 
