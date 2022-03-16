@@ -1,6 +1,6 @@
-# Trek-App
+# Elective-I Flask App : Trek App
 
-Elective-I Flask App : Trek App
+
 
 A) Create database & configure database settings in main.py
 
